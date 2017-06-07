@@ -13,7 +13,7 @@ Basic Usage
 
 To analyse a single domain:
 
-```python FFAnalyse.py -d exampledomain.com```
+```python FFanalyse.py -d exampledomain.com```
 
 To analyse multple domains:
 
