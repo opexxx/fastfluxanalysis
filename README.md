@@ -13,11 +13,11 @@ Basic Usage
 
 To analyse a single domain:
 
-```python FFAnalyse.py -d exampledomain.com```
+```python FFanalyse.py -d exampledomain.com```
 
 To analyse multple domains:
 
-```cat domains.txt | xargs -I {} python FFAnalyse.py -d {}```
+```cat domains.txt | xargs -I {} python FFanalyse.py -d {}```
 
 The URLAnalyse and Geolocate scripts can also be used in isolation, please see the documentation for each of these for usage info.
 
